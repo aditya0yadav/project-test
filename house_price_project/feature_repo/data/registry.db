@@ -1,0 +1,28 @@
+
+I
+)
+house_id"house_idJhouse_price_project
+Ï¢·ÀĞÛ“„Ï¢·ÀĞÛ“„
+J
+*
+__dummy"
+__dummy_idJhouse_price_project
+Ï¢·ÀÀà¡„Ï¢·ÀÀà¡„1"$e729e980-a146-46d0-b5e3-5014e5ef8f52*¢£·ÀŞğ¿2Ë
+ª
+house_featureshouse_price_projecthouse_id"
+location"
+	size_sqft"
+bedrooms"
+age"
+price_per_sqft"
+	is_luxury"
+
+age_bucket2€£:|event_timestampZdata/house_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/house_data.parquet@b
+house_id
+Ï¢·À˜ğ®„¢£·À¨Ê÷¾R§
+¤
+,feast.infra.online_stores.sqlite.SqliteTable"t
+N/workspaces/project-test/house_price_project/feature_repo/data/online_store.db"house_price_project_house_featuresb’event_timestampZdata/house_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/house_data.parquetªhouse_price_projectŠ5
+
+house_price_project
+Ï¢·ÀØ­ƒ÷Ï¢·ÀØ­ƒ÷
